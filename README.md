@@ -31,5 +31,5 @@ yarn install
 ```
 ## Run the application: 
 ```
-npx react-native run-ios or npx react-native run-android
+yarn start
 ```
